@@ -1,6 +1,5 @@
 # 🔧 Format JSON Online – Free Developer Tools
-<img width="1447" height="734" alt="screenshot-desktop" src="https://github.com/user-attachments/assets/8dee618e-ef88-4bc1-9b6e-bdc604d81212" />
-<img width="307" height="672" alt="screenshot-mobile" src="https://github.com/user-attachments/assets/d52c80ba-3e54-4fb4-b1d5-04b06173fb81" />
+<img width="1447" height="734" alt="Screenshot of the Format JSON Online interface on a desktop browser, showing the JSON editor and formatting options." src="https://github.com/user-attachments/assets/8dee618e-ef88-4bc1-9b6e-bdc604d81212" />
 A collection of powerful, 
 fast, and free JSON tools designed for developers, students, and data analysts.
 
