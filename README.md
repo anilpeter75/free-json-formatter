@@ -1,5 +1,8 @@
 # 🔧 Format JSON Online – Free Developer Tools
-<img width="1447" height="734" alt="Screenshot of the Format JSON Online interface on a desktop browser, showing the JSON editor and formatting options." src="https://github.com/user-attachments/assets/8dee618e-ef88-4bc1-9b6e-bdc604d81212" />
+
+<img width="1401" height="697" alt="Screenshot of the Format JSON Online interface on a desktop browser, showing the JSON editor and formatting options." src="https://github.com/user-attachments/assets/f972308e-7f2f-4634-8c34-4a3fe599beed" />
+
+
 A collection of powerful, 
 fast, and free JSON tools designed for developers, students, and data analysts.
 
@@ -31,5 +34,14 @@ fast, and free JSON tools designed for developers, students, and data analysts.
 
 ---
 
+
 > 📌 All tools are 100% free, browser-based, and privacy-friendly.  
 > 🌐 Visit the main site: [https://formatjsononline.com](https://formatjsononline.com)
+
+## Feedback and Bug Reports
+
+Have a feature request or found a bug? I'd love to hear from you! Please [**open an issue**](https://github.com/anilpeter75/free-json-formatter/issues) in this repository to let me know.
+
+## License
+
+This repository contains the public-facing information for the FormatJSONOnline.com project. The project itself is a proprietary tool. The content in this repository is available under the [MIT License](LICENSE).
