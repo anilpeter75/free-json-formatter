@@ -7,7 +7,7 @@
 
 A simple, interactive **JSON formatter** built with vanilla HTML, CSS, and JavaScript. Paste messy JSON into the textarea, hit "Format JSON", and get pretty-printed output with 2-space indentation. Handles errors gracefully—ideal for quick debugging!
 
-[![Demo](https://img.shields.io/badge/Live%20Demo-View%20Online-blue?style=for-the-badge&logo=github)](https://anilpeter75.github.io/free-json-formatter-demo/)  
+[![Demo](https://img.shields.io/badge/Live%20Demo-View%20Online-blue?style=for-the-badge&logo=github)](https://anilpeter75.github.io/json-formatter-demo/)  
 [![Full Tool](https://img.shields.io/badge/Advanced%20Tools-FormatJSONOnline-blue?style=for-the-badge&logo=json)](https://formatjsononline.com/)
 
 ## Features
@@ -31,7 +31,7 @@ Output (formatted):
 ]
 }
 ## Live Demo
-Try it [here](https://anilpeter75.github.io/free-json-formatter-demo/) (update with your GitHub Pages URL after setup).
+Try it [here](https://anilpeter75.github.io/json-formatter-demo/) (update with your GitHub Pages URL after setup).
 
 ## Quick Setup
 1. Fork this repo.
