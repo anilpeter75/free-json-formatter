@@ -3,6 +3,62 @@
 <img width="1401" height="697" alt="Screenshot of the Format JSON Online interface on a desktop browser, showing the JSON editor and formatting options." src="https://github.com/user-attachments/assets/f972308e-7f2f-4634-8c34-4a3fe599beed" />
 
 
+# Free JSON Formatter Demo 🔧
+
+A simple, interactive **JSON formatter** built with vanilla HTML, CSS, and JavaScript. Paste messy JSON into the textarea, hit "Format JSON", and get pretty-printed output with 2-space indentation. Handles errors gracefully—ideal for quick debugging!
+
+[![Demo](https://img.shields.io/badge/Live%20Demo-View%20Online-blue?style=for-the-badge&logo=github)](https://anilpeter75.github.io/free-json-formatter-demo/)  
+[![Full Tool](https://img.shields.io/badge/Advanced%20Tools-FormatJSONOnline-blue?style=for-the-badge&logo=json)](https://formatjsononline.com/)
+
+## Features
+- **One-Click Formatting**: Parses and beautifies JSON instantly.
+- **Error Handling**: Shows clear messages for invalid input.
+- **Mobile-Friendly**: Responsive design for any device.
+- **Privacy-First**: All client-side; no data leaves your browser.
+- **Sample Ready**: Starts with a fun JSON example.
+
+### Example
+Input (messy): `{"id":1,"name":"Anil","skills":["React","Next.js","JSON"]}`  
+Output (formatted):
+
+{
+"id": 1,
+"name": "Anil",
+"skills": [
+"React",
+"Next.js",
+"JSON"
+]
+}
+## Live Demo
+Try it [here](https://anilpeter75.github.io/free-json-formatter-demo/) (update with your GitHub Pages URL after setup).
+
+## Quick Setup
+1. Fork this repo.
+2. Enable GitHub Pages in Settings > Pages (source: main branch).
+3. Customize the sample JSON or add validation in `index.html`.
+4. Deploy and share!
+
+## Try the Full Suite
+This is a mini-demo—explore [FormatJSONOnline.com](https://formatjsononline.com/) for 40+ tools: validators, minifiers, comparators, converters, and more. 100% free, ad-free, privacy-focused! ⭐
+
+## Tech Stack
+- **HTML5** for structure
+- **CSS3** for clean styling (flexbox, shadows)
+- **Vanilla JS** for parsing (JSON.parse/stringify)
+
+## Contributing
+- Fork & PR enhancements (e.g., add copy button or themes).
+- Issues? Open one for bugs or ideas!
+
+## License
+MIT – Free to use, modify, and share.
+
+---
+
+**Built with ❤️ for devs. Questions? [Contact via FormatJSONOnline](https://formatjsononline.com/).**  
+*Last updated: October 2025*
+
 A collection of powerful, 
 fast, and free JSON tools designed for developers, students, and data analysts.
 
