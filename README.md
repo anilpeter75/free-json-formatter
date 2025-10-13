@@ -51,8 +51,6 @@ This is a mini-demo—explore [FormatJSONOnline.com](https://formatjsononline.co
 - Fork & PR enhancements (e.g., add copy button or themes).
 - Issues? Open one for bugs or ideas!
 
-## License
-MIT – Free to use, modify, and share.
 
 ---
 
